@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryaanajambeg&label=Profile%20views&color=0e75b6&style=flat" alt="ryaanajambeg" /> </p>
 
-- 🔭 I’m currently working on **Side projects for my portfolio**
+- 🔭 I’m currently working on **A Keylogger Project**
 
 - 🌱 I’m currently learning **Security & Incident Management, Ethical hacking, Malware analysis and so on...**
 
